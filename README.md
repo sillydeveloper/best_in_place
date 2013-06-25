@@ -419,6 +419,7 @@ Fork the project on [github](https://github.com/bernat/best_in_place 'bernat / b
 
     $ cd test_app
     $ bundle
+    $ bundle exec rake db:migrate
     $ bundle exec rake db:test:prepare
     $ cd ..
 

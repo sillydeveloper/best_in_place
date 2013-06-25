@@ -5,6 +5,7 @@ require File.expand_path('../../test_app/config/environment', __FILE__)
 require 'coveralls'
 require "rspec/rails"
 require "nokogiri"
+require "pry"
 
 Coveralls.wear!
 

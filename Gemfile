@@ -7,3 +7,5 @@ gem 'sqlite3'
 gem 'jquery-rails'
 gem 'rdiscount'
 gem 'coveralls', require: false
+gem 'pry'
+
